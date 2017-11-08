@@ -4,9 +4,15 @@
 }
 
 /*Header*/
+
+.container{
+	width:95%;
+	margin:auto;
+}
+
 .header{
-	background-color: darkgrey;
-	border-left:#00cc74;
+	background-color:#333;
+	color:#fff;
 }
 
 /* Dropdown menu */
