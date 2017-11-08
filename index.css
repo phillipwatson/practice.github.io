@@ -5,8 +5,8 @@
 
 /*Header*/
 .header{
-	background: grey;
-	border-left:#00cc74 10px;
+	background-color: darkgrey;
+	border-left:#00cc74;
 }
 
 /* Dropdown menu */
