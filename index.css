@@ -1,24 +1,3 @@
-.bgcolor{
-	background-color: LightCyan;
-}
-
-footer{
-	background-color: Tan;
-}
-
-ul{
-	list-style: none;
-}
-
-nav{
-	background-color: Tan;
-	color: white;
-}
-
-.essaybgcolor, .webdev{
-	background-color: Tan;
-}
-
 .dropbtn {
     background-color: #4CAF50;
     color: white;
