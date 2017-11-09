@@ -10,31 +10,34 @@ body{
 .decordark{
 	background-color:#607d00;
 	position: fixed;
+	z-index: -6;
   	top: 0px;
     right: 0;
-    z-index: 1;
     width: 20%;
     height: 2000px;
+    margin: auto;
 }
 
 .decorlight{
     background-color:#F4ECAB;
 	position: fixed;
+	z-index: -2;
   	top: 0px;
-    right: 30px;
-    z-index: 1;
+    right: 18px;
     width: 5%;
     height: 2000px;
+    margin: auto;
 }
 
 .decorlightgreen{
     background-color:#c3e55d;
 	position: fixed;
+	z-index: -1;
   	top: 0px;
     right: 400px;
-    z-index: -5;
     width: 5%;
     height: 2000px;
+    margin: auto;
 }
 
 .container{
@@ -47,7 +50,7 @@ body{
 	color:white;
 	padding: 50px;
 	margin:auto;
-	margin: 0% 20% 5% 2.5%;
+	margin: 0% 2.5% 5% 2.5%;
 	line-height: 160%
 }
 
@@ -67,7 +70,7 @@ h1 , h2 , p{
 .dropbtn {
     background-color: #c3e55d;
     color: white;
-    padding: 16px;
+    padding: 30px;
     font-size: 16px;
     border: none;
     cursor: pointer;
