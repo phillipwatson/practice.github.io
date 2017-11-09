@@ -8,11 +8,24 @@
 .container{
 	width:95%;
 	margin:auto;
+	margin-bottom:5%
+}
+
+.container2{
+	margin:auto;
+	margin: 0% 20% 5% 2.5%;
+	line-height: 160%
+	
+}
+
+h2{
+	margin-bottom: 1.5%
 }
 
 .header{
 	background-color:#333;
 	color:#fff;
+    
 }
 
 /* Dropdown menu */
@@ -23,6 +36,7 @@
     font-size: 16px;
     border: none;
     cursor: pointer;
+    margin-top: 15%;
 }
 
 .dropdown {
@@ -55,6 +69,3 @@
 .dropdown:hover .dropbtn {
     background-color: #66ffc2;
 }
-/* Dropdown menu */
-
-/*/header*/
