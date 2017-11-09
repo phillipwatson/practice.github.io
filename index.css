@@ -7,6 +7,19 @@ body{
 	background-color: #d0ac9e
 }
 /*Header*/
+
+.lander{
+	background-color: #ffc6af;
+	position:fixed;
+	opacity: 0.9;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    height:100%;
+    width:100%;
+  	}
+
 .decordark{
 	background-color:#607d00;
 	position: fixed;
