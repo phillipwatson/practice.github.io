@@ -4,7 +4,7 @@
 }
 
 body{
-	background-color: #f4e3d1
+	background-color: #fbdbba;
 }
 /*Header*/
 
@@ -54,21 +54,29 @@ body{
 }
 
 .container{
+	color:#fbdbba;
 	width:95%;
 	margin:auto;
 	margin-bottom:5%
 }
 
 .container2{
-	color:white;
+	color:#fbdbba;
 	padding: 50px;
 	margin:auto;
 	margin: 0% 2.5% 5% 2.5%;
 	line-height: 160%
 }
 
+h1 , h2{
+	color:#F4ECAB;;
+	margin-left: 1.5%;
+    margin-bottom: 1.5%;
+    padding: 10px;
+}
 
-h1 , h2 , p{
+p{
+	color:#fff;;
 	margin-left: 1.5%;
     margin-bottom: 1.5%;
     padding: 10px;
@@ -76,7 +84,7 @@ h1 , h2 , p{
 
 .header{
 	background-color:#333;
-	color:#fff;
+	color: #F4ECAB;
 }
 
 /* Dropdown menu */
